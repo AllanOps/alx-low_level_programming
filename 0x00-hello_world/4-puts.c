@@ -1,15 +1,13 @@
 #include <stdio.h>
 /**
- * Main: Function entry point
+ * main - Entry point
  *
- * Puts: function from stdio pronting a string
- *
- * Return value: Always 0
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	puts("Programming is like a multilingual puzzle");
+	puts("\"Programming is like a multilingual puzzle");
 
 	return (0);
 }
