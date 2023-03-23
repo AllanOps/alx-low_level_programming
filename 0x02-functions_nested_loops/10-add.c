@@ -3,7 +3,7 @@
  * add - Adds and returns the result
  *
  */
-int add(int, int)
+int add(int a, int b)
 {
 	int result, a, b;
 	result = a + b;
