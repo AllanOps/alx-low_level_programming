@@ -1,1 +1,1 @@
-A variadic function is a function that accepts a *variable* number of argumenIndefinate arity - per se.
+A variadic function is one that accepts a variable number of arguments; A function of indefinate arity.
