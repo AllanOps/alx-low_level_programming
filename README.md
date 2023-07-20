@@ -1,2 +1,1 @@
-Low level programming as presumed by C language.
-To be updated later tho
+A variadic function is a function that accepts a *variable* number of argumenIndefinate arity - per se.
