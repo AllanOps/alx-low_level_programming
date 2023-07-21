@@ -4,7 +4,6 @@
  * @array: Array of integers
  * @size: Size of the array
  * @cmp: Pointer to the func that compares values
- * 
  * Return: If !element matches or size is less/equal 0;
  * give -1.
  * Otherwise give the index of the first element for which
